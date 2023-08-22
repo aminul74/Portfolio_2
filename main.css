@@ -1,0 +1,77 @@
+*{margin:0px; padding:0px}
+
+a{text-decoration:none; }
+a:hover{text-decoration:none;}
+
+.fix{overflow:hidden;}
+
+body{background:url(images/white_bg.jpg) repeat scroll 0 0;}
+.header_body{background:url(images/blue_bg.jpg) repeat scroll 0 0; height:226px;}
+.header_area{width:940px; margin:0px auto;}
+
+.header_logo{width:200px; float:left; margin-top:10px;}
+.header_logo img{}
+
+.header_manu{float:right; margin-top:10px; width:400px;}
+.header_manu ul {margin:0; padding:0px; list-style:none;}
+.header_manu ul li {float:left;  line-height:20px;}
+.header_manu ul li a {font-size:20px; color:#fff; height:25px; display:block;padding:10px; }
+/**li te float dile a te display block kortei hobe, na hole a tei float dite hobe...**/
+.header_manu ul li a:hover {color:#0E2931; background:#fff; display:block;}
+
+.main_body{width:876px; background:url(images/white_bg.jpg) repeat scroll 0 0; margin:-135px auto; padding:32px; position:relative; left:0px; right:0px;}
+.slider_area{}
+.slider{}
+.slider img{}
+.Slider_text_area{position:absolute; left:32px; top:100px; color:#fff; width:300px;}
+.text_big{background:#0E2932; padding: 8px 0px 11px 32px;}
+.text_small {
+  background: none repeat scroll 0 0 #999999;
+  margin: 25px 0 15px 29px;
+  padding: 10px;
+  font-weight:bold;
+}
+.read_more {
+  background: none repeat scroll 0 0 #0E2932;
+  border-radius: 12px;
+  float: right;
+  padding: 10px;
+  text-align: center;
+  width: 150px;
+}
+.read_more a{color:#fff;}
+.read_more a:hover{color:#E3E3E3;}
+
+.zigzag{background:url(images/zigjag.jpg) repeat-x scroll 0 0; height:10px; margin-top:30px; margin-bottom:30px;}
+.welcome_content{text-align:center;}
+
+.promo_area{}
+.single_promo{float:left; width:262px; text-align:center; padding:10px;}
+.single_promo img{ padding:5px;}
+.single_promo h2{}
+
+
+.feature_area{margin:80px auto 26px;}
+.feature_bar{width:200px; float:left;}
+.feature_bar h2{}
+.feature_bar ul{margin-left:30px;}
+.feature_bar ul li{ list-style-image:url(images/list_style.jpg); list-style-position:inside; padding-top:22px; padding-left:5px}
+
+.feature_content{width:600px; float:right;}
+.feature_content h1{}
+.feature_content p{padding-top:10px;}
+
+
+.footer_body{background:url(images/blue_bg.jpg) repeat scroll 0 0;}
+.footer{margin: 168px auto 50px; width:940px; border-bottom:5px solid #061A21; }
+.single_post{width:270px; float:left; margin-left:30px;  padding-bottom:20px;}
+.single_post h1{border-bottom:5px solid #061A21; color:#fff; padding:5px; margin-bottom:20px; }
+.single_post a{}
+.single_post p{ padding:10px; color:#5A7E8A;}
+#conatact{color:#fff; font-size:16px; line-height:20px;}
+
+.copywrite{ width:940px;margin:10px auto;}
+.copywrite p{ text-align:center; color:#5A7E8A; font-size:18px;}
+.{}
+.{}
+.{}
